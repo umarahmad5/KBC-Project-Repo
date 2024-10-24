@@ -1,4 +1,4 @@
-#this is basically a version of KBC, questions will be based on Coding. 
+#this is basically a version of KBC, questions will be based on Programming
 
 
 #questions below are stored in list format so that we can loop through them later. 
